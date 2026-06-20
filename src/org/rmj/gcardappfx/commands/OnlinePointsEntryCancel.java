@@ -160,7 +160,7 @@ public class OnlinePointsEntryCancel {
             try {
                 if (!loRS.next()){
                     psMessage = "No transaction exist.";
-                    return false;
+                    return true;
                 }
                 
                 if (loRS.getDouble("nPointsxx") <= 0.00){
