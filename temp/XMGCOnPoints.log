@@ -54,3 +54,7 @@ Nov 07, 2020 12:06:49 PM org.rmj.replication.utility.LogWrapper severe
 SEVERE: saveUpdate: Unable to save M01417000092 with Ref No. 123449 AND Source Code M02910000004
 Nov 07, 2020 12:13:01 PM org.rmj.replication.utility.LogWrapper severe
 SEVERE: saveUpdate: Unable to save M01417000092 with Ref No. 123449 AND Source Code M02910000004
+May 29, 2026 4:14:44 PM org.rmj.replication.utility.LogWrapper severe
+SEVERE: saveUpdate: Unable to save M15125000138 with Ref No. 654347 AND Source Code M02910000002
+May 29, 2026 4:40:39 PM org.rmj.replication.utility.LogWrapper severe
+SEVERE: cancelTransaction: Unable to cancel M00126000001
